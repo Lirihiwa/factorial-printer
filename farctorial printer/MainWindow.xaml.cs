@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace farctorial_printer
+namespace fractal_printer
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

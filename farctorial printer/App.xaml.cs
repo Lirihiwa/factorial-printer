@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace farctorial_printer
+namespace fractal_printer
 {
     /// <summary>
     /// Interaction logic for App.xaml
